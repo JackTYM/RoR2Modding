@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4217517935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 407cb7dfdd5a2e58e1fb040ac52ae921
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46e9d7502db8683b6fa653c67c544c7f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SkinMods/JackMod/Meshes/char.001.mesh
+- Assets/TextureMaterial.mat
+- Assets/SkinMods/JackMod/Icons/JackSkinIcon.png
+Dependencies: []

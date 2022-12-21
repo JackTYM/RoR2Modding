@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3936657220
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: exampleitemmod
+      Dependencies: {}
+    Info_1:
+      Name: wii_fit_item
+      Dependencies: {}

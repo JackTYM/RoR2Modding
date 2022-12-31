@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: SpidermanLoader 1
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 0
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: LoaderBody
+  nameTokenLocalizations:
+  - language: en
+    value: Spider-Man
+  icon:
+    createFromColors: 1
+    sprite: {fileID: 0}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 1250225
+      top:
+        serializedVersion: 2
+        rgba: 16777215
+      right:
+        serializedVersion: 2
+        rgba: 8664875
+      bottom:
+        serializedVersion: 2
+        rgba: 12483396
+    isExpanded: 1
+  unlockableName: 
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 2660009504212711036, guid: 3de5727ddf5eb3d49a22807e85a74e14, type: 3}
+    rendererReference:
+      accessType: 0
+      name: PilotFemaleMesh
+      index: 2
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: cb734864267138a4aa6e78f422a63b7c, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: PilotFemaleMesh
+      index: 2
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []

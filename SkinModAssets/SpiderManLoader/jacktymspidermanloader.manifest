@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1109967533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14ed6c23ccdda8d18506fe63e4eb1726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46e9d7502db8683b6fa653c67c544c7f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Spiderman.mat
+- Assets/SkinMods/SpiderManLoader/Meshes/spiderman.mesh
+- Assets/SkinMods/SpiderManLoader/Icons/SpidermanLoaderIcon.png
+Dependencies: []
